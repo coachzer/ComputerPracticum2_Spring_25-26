@@ -56,3 +56,6 @@ Za pisanje HTML kode lahko uporabljamo različne urejevalnike besedila oz. text 
 - Končno, moramo pri pisanju HTML-ja paziti tudi na pravilno strukturo dokumenta
 - To pomeni, da elemente, kot so <body>, <h1>, <h2>, <p> in drugi, postavljamo v pravilnem zaporedju in jih smiselno organiziramo.
 - Struktura naj bo logična: najprej naslov, potem podnaslovi, nato odstavki in ostala vsebina.
+
+  
+**Zdaj bomo odprli spletno stran W3School, kjer bomo videli nekaj primerov HTML elementov**
