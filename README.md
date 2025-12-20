@@ -18,6 +18,8 @@ The course is structured into weekly modules.
 
 All the content refers to titles of [W3Schools](https://www.w3schools.com/) tutorials.
 
+For additional resources, check out the [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) and their modules.
+
 ### Week 1: Course Introduction
 
 - Introduction of Instructors

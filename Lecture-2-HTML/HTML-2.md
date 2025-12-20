@@ -1,5 +1,5 @@
 
-# Uvod v HTML
+# HTML 2
 
 Danes se bomo naučili osnove HTML-ja – označevalnega jezika za izdelavo spletnih strani.
 

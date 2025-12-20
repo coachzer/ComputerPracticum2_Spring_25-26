@@ -1,5 +1,5 @@
 
-# CSS
+# CSS 1
 
 Danes bomo spoznali CSS – jezik za oblikovanje videza spletnih strani.
 
