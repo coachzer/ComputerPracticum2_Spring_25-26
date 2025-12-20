@@ -62,20 +62,3 @@ Za pisanje HTML kode lahko uporabljamo različne urejevalnike besedila oz. text 
 - Struktura naj bo logična: najprej naslov, potem podnaslovi, nato odstavki in ostala vsebina.
 
 **Zdaj bomo odprli spletno stran W3School, kjer bomo videli nekaj primerov HTML elementov.**
-
-## W3Schools HTML Tutorial
-
-### Elements
-
-- Elementi so osnovni gradniki HTML strani.
-- Elementi so predstavljeni z oznakami (tags).
-- Elementi imajo lahko atribute, ki določajo dodatne lastnosti.
-- Elementi so lahko gnezdeni znotraj drugih elementov.
-- Primer elementa: `<p>This is a paragraph.</p>`
-
-### Headings
-
-- Naslovi so pomembni za strukturo vsebine.
-- Obstaja šest stopenj naslovov, od `<h1>` (najpomembnejši) do `<h6>` (najmanj pomemben).
-- Naslovi pomagajo pri organizaciji vsebine.
-- Primer naslova: `<h1>This is a heading</h1>`
